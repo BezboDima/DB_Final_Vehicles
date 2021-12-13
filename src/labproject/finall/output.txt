@@ -1,0 +1,30 @@
+class labproject.finall.Car, Top Speed: 120, Seats: 5, Drive Train: 4WD, Doors: 4
+class labproject.finall.Car, Top Speed: 90, Seats: 4, Drive Train: FWD, Doors: 2
+class labproject.finall.Car, Top Speed: 180, Seats: 4, Drive Train: RWD, Doors: 2
+class labproject.finall.Truck, Top Speed: 100, Seats: 5, Payload Capacity: 1000, Tow Capacity: 5000
+class labproject.finall.Truck, Top Speed: 95, Seats: 5, Payload Capacity: 1500, Tow Capacity: 4000
+class labproject.finall.Truck, Top Speed: 120, Seats: 5, Payload Capacity: 2000, Tow Capacity: 6000
+class labproject.finall.Motorcycle, Top Speed: 220, Seats: 1, Has Windshield? false
+class labproject.finall.Motorcycle, Top Speed: 130, Seats: 2, Has Windshield? true
+=======================================================================================================
+class labproject.finall.Car, Top Speed: 90, Seats: 4, Drive Train: FWD, Doors: 2
+class labproject.finall.Truck, Top Speed: 95, Seats: 5, Payload Capacity: 1500, Tow Capacity: 4000
+class labproject.finall.Truck, Top Speed: 100, Seats: 5, Payload Capacity: 1000, Tow Capacity: 5000
+class labproject.finall.Car, Top Speed: 120, Seats: 5, Drive Train: 4WD, Doors: 4
+class labproject.finall.Truck, Top Speed: 120, Seats: 5, Payload Capacity: 2000, Tow Capacity: 6000
+class labproject.finall.Motorcycle, Top Speed: 130, Seats: 2, Has Windshield? true
+class labproject.finall.Car, Top Speed: 180, Seats: 4, Drive Train: RWD, Doors: 2
+class labproject.finall.Motorcycle, Top Speed: 220, Seats: 1, Has Windshield? false
+=======================================================================================================
+class labproject.finall.Truck, Top Speed: 100, Seats: 5, Payload Capacity: 1000, Tow Capacity: 5000
+class labproject.finall.Truck, Top Speed: 95, Seats: 5, Payload Capacity: 1500, Tow Capacity: 4000
+class labproject.finall.Truck, Top Speed: 120, Seats: 5, Payload Capacity: 2000, Tow Capacity: 6000
+=======================================================================================================
+class labproject.finall.Truck, Top Speed: 100, Seats: 5, Payload Capacity: 1000, Tow Capacity: 5000
+class labproject.finall.Truck, Top Speed: 95, Seats: 5, Payload Capacity: 1500, Tow Capacity: 4000
+class labproject.finall.Truck, Top Speed: 120, Seats: 5, Payload Capacity: 2000, Tow Capacity: 6000
+=======================================================================================================
+class labproject.finall.Truck, Top Speed: 95, Seats: 5, Payload Capacity: 1500, Tow Capacity: 4000
+class labproject.finall.Truck, Top Speed: 100, Seats: 5, Payload Capacity: 1000, Tow Capacity: 5000
+class labproject.finall.Truck, Top Speed: 120, Seats: 5, Payload Capacity: 2000, Tow Capacity: 6000
+=======================================================================================================
